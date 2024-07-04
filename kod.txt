@@ -1,2 +1,3 @@
 registracia pouyivatela
 Registracia Admin pouzivatela
+New feature
